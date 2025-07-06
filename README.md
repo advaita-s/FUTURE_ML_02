@@ -2,13 +2,10 @@
 
 This project predicts whether a customer is likely to churn using machine learning classification models. It helps businesses proactively retain customers by identifying key churn drivers and high-risk users. The system includes end-to-end steps from data cleaning to model deployment and visualization using Power BI.
 
----
 
 ## 🚀 Project Objective
 
 To build a machine learning model that predicts customer churn probability, identify key factors influencing churn, and present actionable business insights through a dashboard.
-
----
 
 ## 🧰 Tools & Technologies Used
 
@@ -19,15 +16,12 @@ To build a machine learning model that predicts customer churn probability, iden
 - **Power BI** – Final dashboard presentation
 - **Streamlit** (optional attempt)
 
----
 
 ## 🗂️ Dataset Used
 
 - Source: Kaggle - [Telco / Bank / Spotify Customer Churn Dataset]
 - Rows: 7032  
 - Target: `Churn` (Yes/No)
-
----
 
 ## 🛠️ Project Workflow
 
@@ -60,8 +54,6 @@ To build a machine learning model that predicts customer churn probability, iden
 
 > ✅ **Best Performing Model: XGBoost**
 
----
-
 ## 📊 Key Visualizations (Power BI)
 
 - 🔹 Bar Chart: Feature Importance (Top 10 Churn Drivers)
@@ -69,8 +61,6 @@ To build a machine learning model that predicts customer churn probability, iden
 - 🔹 Column Chart: Churn by Contract Type
 - 🔹 Table: Top 10 High-Risk Customers
 - 🔹 KPI Cards: Total Customers, Avg Tenure, Churn Rate
-
----
 
 ## 📤 Output Files
 
@@ -91,13 +81,9 @@ To build a machine learning model that predicts customer churn probability, iden
 - **Electronic checks** indicate higher churn
 - Offer **loyalty rewards** and improve onboarding for at-risk segments
 
----
-
 ## 📌 Optional Deployment
 
 > Streamlit version of this model was attempted but is not deployed due to ngrok compatibility. Future improvement can integrate full web UI.
-
----
 
 ## 📁 How to Run
 
@@ -111,12 +97,4 @@ To build a machine learning model that predicts customer churn probability, iden
 2. Create visuals using recommended charts
 3. Save as `.pbix` or export to PDF
 
----
 
-## 📬 Contact
-
-If you have any questions or want to collaborate, feel free to reach out!
-
-**Name:** Sneha R  
-**Project:** Customer Churn Prediction  
-**Tools:** Python, Power BI  
