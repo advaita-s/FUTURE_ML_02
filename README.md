@@ -97,4 +97,11 @@ To build a machine learning model that predicts customer churn probability, iden
 2. Create visuals using recommended charts
 3. Save as `.pbix` or export to PDF
 
+✅ Author
+Advaita_S_S
+
+BSc Computer Science (Data Analytics) Student
+
+> 📌 This project is an independently developed academic and portfolio work focused on applying data analysis, machine learning, and business intelligence using real-world datasets.
+
 
