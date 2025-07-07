@@ -103,6 +103,11 @@ Advaita_S_S
 
 BSc Computer Science (Data Analytics) Student
 
-> 📌 This project is an independently developed academic and portfolio work focused on applying data analysis, machine learning, and business intelligence using real-world datasets.
+Machine Learning Intern @ Future Interns
+📅 July 2025
+
+> 📌 This project is an independently developed academic work.
+
+
 
 
